@@ -178,9 +178,6 @@ video-to-gif-converter/
 ├── video_to_gif_converter.py  #основной файл программы
 ├── requirements.txt           #зависимости Python
 ├── README.md                 #документация
-├── examples/                 #примеры видео и GIF
-│   ├── input/
-│   └── output/
 └── gif_output/              #папка для сохранения (создается автоматически)
 ```
 
